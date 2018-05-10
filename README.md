@@ -1,18 +1,18 @@
-![Warrior Tank](logo.png)
+# Boilerplate para Templates
 
-[![Build Status](https://travis-ci.org/meche/warrior-tank.svg?branch=master)](https://travis-ci.org/meche/warrior-tank)
+Este projeto tem a intenção de facilitar o desenvolvimento de novos templates para aplicações da @GoMakers.
 
-The boilerplate for frontend.
+## Instalação
 
-This boilerplate is a simple example used on my [workflow](https://github.com/meche/workflow).
+Se você tem o docker instalado, na raíz do projeto suba com `docker-compose up` e o projeto já estará rodando localmente.
 
-## Install
+Para os demais usuários siga os passos:
 
-1. Fork this repo;
-2. install `nodejs`;
-3. Clone in your environment the repo forked;
-4. run package.json.
+- Instale o NodeJS Latest
+- Instale o Yarn
+- Instale o Gulp-cli
+- `yarn install`
 
-## Usage
+## Iniciando
 
-run in your terminal `gulp pullTheBoss` for watch.
+- `yarn start`
